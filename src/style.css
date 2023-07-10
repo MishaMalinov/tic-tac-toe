@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    align-items: flex-start;
+
+
+}
+
+.grid {
+    display: flex;
+    width: 250px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btn {
+    padding: 0;
+    margin: 0;
+    height: 80px;
+    width: 80px;
+}
+
+.history {
+    display: flex;
+    flex-direction: column;
+    
+}
+.hisBtn {
+    width: 100px;
+    height: 30px;
+    }
